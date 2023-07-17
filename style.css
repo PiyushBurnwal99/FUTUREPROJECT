@@ -9,7 +9,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 31px 83px;
-    height: 70px;
+    height: 45px;
     background-color: #000;
   }
   .line {
@@ -39,7 +39,7 @@
   }
   section div{
     background-image: url(bg.png);
-    height: 85.5vh;
+    height: 91.5vh;
     background-position: center;
     background-size: cover;
     text-align: center;
